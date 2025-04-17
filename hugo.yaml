@@ -1,5 +1,5 @@
 baseURL: ''
-title: TECHNICAL SCENARIOS, TESTING LOGIC, REVEALING POTENTIAL.
+title: Trace³
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -50,7 +50,7 @@ params:
   author: Nusser Studios
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
+  moto: "TECHNICAL SCENARIOS, TESTING LOGIC, REVEALING POTENTIAL."
   description: "Hire smarter with live lab environments, real faults and actionable insight into how candidates solve problems under pressure."
   disable_theme_toggle: false
   disable_stay_uptodate: false
